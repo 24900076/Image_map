@@ -23,7 +23,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
-
+```
     <html>
     <head>
       <title>My City</title>
@@ -157,7 +157,7 @@ road.html
     </body>
     </html>
 
-    
+   ```
 # OUTPUT
 
 ![image](https://github.com/user-attachments/assets/3fe7d17d-e34e-41f7-a3bd-14a090179e70)
